@@ -8,7 +8,7 @@ It also elaborate the T2* and T2 maps by using a monoexponential fitting on T2* 
 
 The script calculates the q-BOLD maps: OEF, PO2 and CMRO2.
 
-**Note**
+**Note:**
 The link with all data and scripts for Spatial Habitat imaging will be uploaded asap.
 Yuo are free to take any piece of code you need for your anlysis!
 
