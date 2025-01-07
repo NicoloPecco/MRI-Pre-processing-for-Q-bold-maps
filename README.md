@@ -13,4 +13,8 @@ Ensure FSLDIR is set correctly in the environment.
 
 **Folders Organization**
 
+<p align="left">
+<img src="https://github.com/NicoloPecco/MRI-Pre-processing-for-Q-bold-maps/Folders_organization.png" width="1000" height="630">
+</p>
+
 
