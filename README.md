@@ -9,7 +9,7 @@ It also elaborates the T2* and T2 maps by using a monoexponential fitting on T2*
 The script calculates the q-BOLD maps: OEF, PO2, and CMRO2.
 
 <p align="center">
-<img src="https://github.com/NicoloPecco/MRI-Pre-processing-for-Q-bold-maps/blob/main/Figures/Panel.png" width="1000" height="400">
+<img src="https://github.com/NicoloPecco/MRI-Pre-processing-for-Q-bold-maps/blob/main/Figures/Panel.png" width="980" height="400">
 </p>
 
 **Note:**
