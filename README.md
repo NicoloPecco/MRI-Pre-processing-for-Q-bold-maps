@@ -1,20 +1,19 @@
 **MRI pre-preocessing for q-bold maps**
 
-This repository contains code that are part of a project which aim to evaluate an innovative PET and MRI approach for assessing hypoxia, perfusion, and tissue diffusion in HGGs and derive a combined map for clustering of intra-tumor heterogeneity (Founded by Ministero della Salute - GR-2018-12365670). 
+This repository contains code that is part of a project aimed at evaluating an innovative PET and MRI approach for assessing hypoxia, perfusion, and tissue diffusion in HGGs and deriving a combined map for the clustering of intra-tumor heterogeneity (funded by the Ministero della Salute - GR-2018-12365670).
 
-This repository includes the main script **'Main_qbold_loop_new_met_HDbet'** and functions to pre-process structural images (T1w and FLAIR), ADC DWI-derived maps, CBF and CBV DSC-derived maps and VP DCE-derived maps.
+This repository includes the main script _'Main_qbold_loop_new_met_HDbet'_ and functions to pre-process structural images (T1w and FLAIR), ADC DWI-derived maps, CBF and CBV DSC-derived maps, and VP DCE-derived maps.
 
-It also elaborate the T2* and T2 maps by using a monoexponential fitting on T2* and T2 echoes.
+It also elaborates the T2* and T2 maps by using a monoexponential fitting on T2* and T2 echoes.
 
-The script calculates the q-BOLD maps: OEF, PO2 and CMRO2.
+The script calculates the q-BOLD maps: OEF, PO2, and CMRO2.
 
 <p align="center">
 <img src="https://github.com/NicoloPecco/MRI-Pre-processing-for-Q-bold-maps/blob/main/Figures/Panel.png" width="1000" height="400">
 </p>
 
-
 **Note:**
-The link with all data and scripts for Spatial Habitat imaging will be uploaded asap.
+The link with all data and scripts for **Spatial Habitat imaging will be uploaded asap**.
 Yuo are free to take any piece of code you need for your anlysis!
 
 **Software Requirements**
