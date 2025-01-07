@@ -25,7 +25,7 @@ Ensure FSLDIR is set correctly in the environment.
 - [HD-BET](https://github.com/MIC-DKFZ/HD-BET) (Brain Extraction Tool using deep learning).
 - [Nifti_Util functions](https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image).
 
-**Folders Organization**
+**Folders Organization and input files**
 
 <p align="left">
 <img src="https://github.com/NicoloPecco/MRI-Pre-processing-for-Q-bold-maps/blob/main/Figures/Folders_organization.png" width="580" height="650">
