@@ -28,7 +28,7 @@ Ensure FSLDIR is set correctly in the environment.
 **Folders Organization**
 
 <p align="left">
-<img src="https://github.com/NicoloPecco/MRI-Pre-processing-for-Q-bold-maps/blob/main/Figures/Folders_organization.png" width="580" height="700">
+<img src="https://github.com/NicoloPecco/MRI-Pre-processing-for-Q-bold-maps/blob/main/Figures/Folders_organization.png" width="580" height="650">
 </p>
 
 **Citation**
