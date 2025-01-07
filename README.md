@@ -13,8 +13,8 @@ The script calculates the q-BOLD maps: OEF, PO2, and CMRO2.
 </p>
 
 **Note:**
-The link with all data and scripts for **Spatial Habitat imaging will be uploaded asap**.
-Yuo are free to take any piece of code you need for your anlysis!
+The link with all data preprocess data and scripts for **Spatial Habitat imaging** will be uploaded asap.
+You are free to take any piece of code you need for your anlysis!
 
 **Software Requirements**
 
@@ -33,4 +33,6 @@ Ensure FSLDIR is set correctly in the environment.
 
 **Citation**
 
-To be uploaded
+Bailo, M., Pecco, N., Callea, M., Scifo, P., Gagliardi, F., Presotto, L., ... & Castellano, A. (2022). Decoding the heterogeneity of malignant gliomas by PET and MRI for spatial habitat analysis of hypoxia, perfusion, and diffusion imaging: a preliminary study. Frontiers in Neuroscience, 16, 885291.
+
+Other to be updated...
